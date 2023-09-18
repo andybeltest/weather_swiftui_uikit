@@ -1,0 +1,6 @@
+framework module AsyncLocationKit {
+  umbrella header "AsyncLocationKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "AsyncLocationKit",
+  "module_name": "AsyncLocationKit",
+  "version": "1.6.3",
+  "summary": "📍async/await CoreLocation",
+  "homepage": "https://github.com/AsyncSwift/AsyncLocationKit",
+  "license": "MIT",
+  "authors": {
+    "Pavel Grechikhin": "pav.gre4ixin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/AsyncSwift/AsyncLocationKit.git",
+    "tag": "1.6.3"
+  },
+  "platforms": {
+    "ios": "13.0",
+    "tvos": "13.0",
+    "watchos": "6.0"
+  },
+  "requires_arc": true,
+  "swift_versions": "5.5",
+  "source_files": "Sources/AsyncLocationKit/**/*.{swift}",
+  "swift_version": "5.5"
+}
